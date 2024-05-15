@@ -16,20 +16,46 @@
 
 ## :pushpin:기술스택
 
+BACK-END <br>
+|    기술스택    |     능력치          |
+|:-------------------:|------------------:|
+|      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> |   80/100   ❤❤❤❤🤍 |
+|<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|80/100   ❤❤❤❤🤍 |
+|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|80/100   ❤❤❤❤🤍 |
+|<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">|60/100   ❤❤❤🤍🤍 |
 
-![image](https://github.com/memorygreen/portfolio/assets/108516942/4bedc042-7458-41a7-be8d-4aa8c6ba8532)
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
+FRONT-END <br>
+|    기술스택    |     능력치          |
+|:-------------------:|------------------:|
+|      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> |   80/100   ❤❤❤❤🤍 
+|<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |80/100   ❤❤❤❤🤍 |
+|<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">|60/100   ❤❤❤🤍🤍 |
+
+
+APP <br>
+|    기술스택    |     능력치          |
+|:-------------------:|------------------:|
+|<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> |  60/100   ❤❤❤🤍🤍 
+
+DB <br>
+|    기술스택    |     능력치          |
+|:-------------------:|------------------:|
+|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>|  80/100   ❤❤❤❤🤍 |
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> |  80/100   ❤❤❤❤🤍 
+
+
+Configuration Management <br>
+|    기술스택    |     능력치          |
+|:-------------------:|------------------:|
+|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">|  80/100   ❤❤❤❤🤍 |
+
+<br>
 
 ## :pushpin: Contact
-- 이메일: setterdayz0720@naver.com
-- 블로그: #
+- 이메일: setterdayz0720@gmail.com
+- 블로그: https://nevertheless-i-will-make-it.tistory.com/
 - 깃헙: https://github.com/memorygreen/
 
 </br>
@@ -48,6 +74,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 
@@ -77,7 +104,8 @@
 #### `Front-end`
   - Html/Css
   - Javscript
-
+#### `collaboration `
+  - git
 </br>
 
 ## 3. ERD 설계
@@ -141,7 +169,7 @@
 </details>
 </br>
 
-
+---
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
@@ -153,16 +181,12 @@
 >  
 >[프로젝트 상세 설명]([https://github.com/JungHyung2/gitio.io](https://github.com/2021-SMHRD-KDT-AI-18/jyTeamRepo)) 참고
   >### :pushpin: MVC 패턴을 활용한 코인 노래 맞추기
-
-
+>
 </br>
 
----
-## :pushpin:교육 및 경력사항/ 자격증
+## :pushpin:자격증
+### ✔개발
 
-
-## 자격증
-### 개발
 |    자격증 획득일    |       자격증명       |        발급기관         |
 |:-------------------:|:-------------------:|:----------------------:|
 |      2023.06        |    정보처리기사      |   한국산업인력공단    |
@@ -170,13 +194,13 @@
 |      2024.03        |     리눅스마스터 2급  | 한국정보통신진흥협회  |
 |      2024.03        |   네트워크관리사 2급  | 한국정보통신자격협회  |
 
-### 데이터분석
+### ✔데이터분석
 |    자격증 획득일    |       자격증명       |        발급기관         |
 |:-------------------:|:-------------------:|:----------------------:|
 |      2022.12        |  빅데이터분석기사    |  한국데이터산업진흥원  |
 |      2022.02        |  데이터분석 준전문가 (ADsP) | 한국데이터산업진흥원  |
 
-### 문서작성 능력
+### ✔문서작성 능력
 
 |    자격증 획득일    |       자격증명       |        발급기관         |
 |:-------------------:|:-------------------:|:----------------------:|
@@ -184,13 +208,13 @@
 |      2023.09        |    사회조사분석사 2급 |   한국산업인력공단    |
 |      2019.09        |     워드프로세서 1급 |   대한상공회의소    |
 
-### 클라우드
+### ✔클라우드
 
 |    자격증 획득일    |       자격증명       |        발급기관         |
 |:-------------------:|:-------------------:|:----------------------:|
 |      2022.12        |   AZ-900: Microsoft Azure | Microsoft |
 
-### 기타
+### ✔기타
 
 |    자격증 획득일    |       자격증명       |        발급기관         |
 |:-------------------:|:-------------------:|:----------------------:|
@@ -200,24 +224,17 @@
 |      2022.07        |  ACU(Autodesk Certified User) | Autodesk |
 |      2023.07        | 산업안전기사(필기 합격) | 한국산업인력공단 |
 
-### 어학
+### ✔어학
 |    자격증 획득일    |       자격증명       |        발급기관         |
 |:-------------------:|:-------------------:|:----------------------:|
 |      2022.07        |   JLPT(일본어능력시험)     |     일본국제교류기금     |
 
 ---
-
-## 교육 및 경력사항
-
+## :pushpin:교육 및 경력사항/ 자격증
 |     기간     |       기관명       |    내용      |
 |:----------------:|:------------------:|:------------------------------:|
-| 2023.12 – 2024.06 | 스마트인재개발원 | 인공지능 융합서비스 개발자 과정 |
+| 2023.12 – 2024.06 | 스마트인재개발원 | 인공지능 융합서비스 개발자 과정(928h) |
 | 2022.12 – 2023.12 | 전남대학교 산학협력단 | 대학원 교육연구팀 행정지원 업무(직책: 연구지원조교) |
 | 2018.03 – 2023.02 | 전남대학교 | 경제학과/경영학과 (부전공:일어일문학과) |
-| 2022.11 – 2022.12 | 한국산업기술협회 | 빅데이터 활용 자바프레임워크 개발자 양성과정 |
-| 2022.01 – 2022.03 | 한국산업기술협회 | 스마트공장 현장 엔지니어 전문가 양성과정 |
-
-
-
-
-## :pushpin:기타
+| 2022.11 – 2022.12 | 한국산업기술협회,㈜링크21 인증센터 | 빅데이터 분석 기사와 파이썬 인공지능 과정(320h) |
+| 2022.01 – 2022.03 | 한국산업기술협회 | 스마트공장 현장 엔지니어 전문가  양성과정(240h) |
