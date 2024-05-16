@@ -24,9 +24,7 @@ BACK-END <br>
 |<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|80/100   ❤❤❤❤🤍 |
 |<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">|60/100   ❤❤❤🤍🤍 |
 
-
-
-FRONT-END <br>
+✔FRONT-END <br>
 |    기술스택    |     능력치          |
 |:-------------------:|------------------:|
 |      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> |   80/100   ❤❤❤❤🤍 
@@ -34,19 +32,19 @@ FRONT-END <br>
 |<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">|60/100   ❤❤❤🤍🤍 |
 
 
-APP <br>
+✔APP <br>
 |    기술스택    |     능력치          |
 |:-------------------:|------------------:|
 |<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> |  60/100   ❤❤❤🤍🤍 
 
-DB <br>
+✔DB <br>
 |    기술스택    |     능력치          |
 |:-------------------:|------------------:|
 |<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>|  80/100   ❤❤❤❤🤍 |
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> |  80/100   ❤❤❤❤🤍 
 
 
-Configuration Management <br>
+✔Configuration Management <br>
 |    기술스택    |     능력치          |
 |:-------------------:|------------------:|
 |<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">|  80/100   ❤❤❤❤🤍 |
@@ -62,24 +60,16 @@ Configuration Management <br>
 
 ## :pushpin: Projects
 
-### 1. 첫 번째 프로젝트(https://github.com/memorygreen/project
+### 1️⃣ 첫 번째 프로젝트(https://github.com/memorygreen/project)
 >팀 프로젝트 
 >개발 기간: 2024.03.22 ~ 2024. 04.05
 
 >  
 >기술 스택:
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 
-
->  
 >[프로젝트 상세 설명](https://github.com/memorygreen/project) 참고
 
   >### :pushpin: 중고스쿨
@@ -88,32 +78,55 @@ Configuration Management <br>
 </br>
 
 
-<details>
+<details> 
   
-## 1. 제작 기간 & 참여 인원
+# 1. 제작 기간 & 참여 인원
 - 2024년 3월 22일 ~ 4월 5일
 - 팀 프로젝트 (김자영, 박민, 이다은, 임지훈, 천지원)
 
+
+
+# 2. 개발내용 
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/68af07b8-36e3-4bed-b0fb-9694dcb6491c)
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/39481494-374a-49b0-b336-fedd795d27a8)
+
+
+# 3. 개발환경
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/a59ed245-bc77-4e75-8f56-03d55abd3999)
+
+
+### ✔Tool<br>
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+
+### ✔Back-End<br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+
+### ✔Front-End<br>
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+
+### ✔DB<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### ✔Collaboration<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </br>
 
-## 2. 사용 기술
-#### `Back-end`
-  - Java 8
-  - Spring
-  - MySQL 4.0
-#### `Front-end`
-  - Html/Css
-  - Javscript
-#### `collaboration `
-  - git
-</br>
+### 4. 시스템 아키텍처
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/c90f60a2-c3b1-431f-92e0-383588c19495)
 
-## 3. ERD 설계
-![오버라이딩_20240408_181241](https://github.com/memorygreen/portfolio/assets/108516942/59c55701-10e6-4632-ae7d-6f446e9691b9)
+
+### 5. ERD 설계
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/95130c9d-76a9-48d6-9b87-300b376915e6)
 
 
 
-## 4. 핵심 기능
+### 6. 핵심 기능
 이 서비스의 핵심 기능은 학교 인증과 청소년 연령제한, 욕설/비속어 필터링 기능입니다. 
 사용자는 학생증 인증을 통해 학교 인증 후 서비스를 이용할 수 있으며, 청소년 연령을 제한할 수 있습니다.
 또한 채팅 스타일의 댓글기능을 구현하여 사용자가 채팅을 하는 듯 몰입하여 댓글을 작성할 수 있습니다.
@@ -123,14 +136,13 @@ Configuration Management <br>
 <summary><b>핵심 기능 설명 펼치기</b></summary>
 <div markdown="1">
 
-### 4.1. 전체 흐름
-![image](https://github.com/memorygreen/portfolio/assets/108516942/36a11ec3-03ae-4df4-93a5-d3c3467cc6e3)
+### 6.1. 전체 흐름
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/a6b635f9-75cb-4b38-9a58-d5ff65bef378)
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/df3791f1-8fea-4be8-bcb7-e3f15e73209e)
 
-![image](https://github.com/memorygreen/portfolio/assets/108516942/ef8d09c8-7dc1-42c3-b0f2-e9b0722924c2)
 
-### 4.2. 욕설/비속어 필터링
-![image](https://github.com/memorygreen/portfolio/assets/108516942/fc4f16b0-ad91-47dc-a624-4ce51ae8a9a9)
-![image](https://github.com/memorygreen/portfolio/assets/108516942/3a56bac0-719d-4327-9412-c21452475276)
+### 6.2. 욕설/비속어 필터링
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/8465c891-8b06-43bc-803a-d2030d7838ed)
 
 
 
@@ -138,25 +150,26 @@ Configuration Management <br>
   - Controller에서는 요청을 화면단에서 넘어온 요청을 받고, Mapper 계층에 로직 처리를 위임합니다.
 
 - **욕설/비속어 필터링** :pushpin: [코드 확인]
-  - 
+  - 상품 게시글에 욕설 포함 시 등록을 제한하고, 게시글을 다시 작성할 수 있게 합니다.
 
 - **등록 제한 팝업** :pushpin: [코드 확인]()
   - 상품 게시글의 제목 또는 상품 설명에 욕설/비속어가 포함되어있으면 재작성을 요청하는 팝업창을 전송합니다.
 
-### 4.3. 댓글기능
-![Uploading image.png…]()
-![image](https://github.com/memorygreen/portfolio/assets/108516942/c03a8aff-516f-48e3-9212-3d6b94c4be0a)
+### 6.3. 댓글기능
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/0565b52b-3c65-4ab9-b881-66ccad1a90d1)
 
-- **작성자에 따른 상이한 디자인 및 정렬** :pushpin: [코드 확인](https://github.com/JungHyung2/gitio.io/blob/d35d29b64c0e8b9653862bdcc1e6b997d2436ec9/index.html#L57C1-L57C202)
+- **작성자에 따른 상이한 디자인 및 정렬** :pushpin: [코드 확인](https://github.com/memorygreen/project/blob/main/Spring3new0326_1426_content/src/main/webapp/WEB-INF/views/ProductContent.jsp)
   - 댓글 작성자 화면에서는 자신의 댓글이 초록색 말풍선과 더불어 "나"라는 글자와 함께 표시됩니다.
   - 다른 사람이 쓴 댓글은 회색 말풍선으로 표시되며, 판매자가 작성한 댓글은 "판매자"라는 글자와 함께 표시됩니다.
 
 
 </br>
 
-## 5. 핵심 트러블 슈팅
-### 5.1. 학교 선택시 위치 인식 불가
-![image](https://github.com/memorygreen/portfolio/assets/108516942/8382410a-6f31-426f-b38b-d06830f437ba)
+### 7. 핵심 트러블 슈팅
+### 7.1. 학교 선택시 위치 인식 불가
+![image](https://github.com/memorygreen/memorygreen/assets/108516942/4ec6e632-77c6-4c8f-b92d-0d872f66941d)
+
+
 - 사용자의 위치와 그로부터 반경2km이내에 있는 학교를 표시하여 지도에 표시하려 했으나, 사용자의 위치와 주변 거리를 분석하여 추천해줄 수 있는 머신러닝을 구현하기에는 물리적인 한계에 봉착했습니다.
 - 따라서 사용자의 위치와 주변 학교의 고정 경도와 위도를 사용하여 대체
 
@@ -171,7 +184,7 @@ Configuration Management <br>
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2️⃣ [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2023.1.29 ~ 2023.1.31
 >  
