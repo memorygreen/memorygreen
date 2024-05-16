@@ -4,7 +4,7 @@
 
 </br>
 
-## :pushpin: Intro
+## 📌 Intro
 🌟다양한 프로젝트와 환경에 유연성을 가진 백엔드 개발자로서, 
 🌟끊임없는 학습과 커뮤니케이션을 통해 동료들과 함께 성장하는 것을 가장 중요하게 여깁니다. 
 🌟어제보다 더 나은 내 자신을 만들기 위해 끝없는 노력을 기울이며, 
@@ -14,7 +14,7 @@
 
 </br>
 
-## :pushpin:기술스택
+## 📌기술스택
 
 BACK-END <br>
 |    기술스택    |     능력치          |
@@ -51,14 +51,14 @@ BACK-END <br>
 
 <br>
 
-## :pushpin: Contact
+## 📌 Contact
 - 이메일: setterdayz0720@gmail.com
 - 블로그: https://nevertheless-i-will-make-it.tistory.com/
 - 깃헙: https://github.com/memorygreen/
 
 </br>
 
-## :pushpin: Projects
+## 📌 Projects
 
 ### 1️⃣ 첫 번째 프로젝트(https://github.com/memorygreen/project)
 >팀 프로젝트 
@@ -72,7 +72,7 @@ BACK-END <br>
 
 >[프로젝트 상세 설명](https://github.com/memorygreen/project) 참고
 
-  >### :pushpin: 중고스쿨
+  >### 📌 중고스쿨
 > 중고등학생을 위한 중고거래 플랫폼 웹사이트
 
 </br>
@@ -146,19 +146,19 @@ BACK-END <br>
 
 
 
-- **상품 등록** :pushpin: [코드 확인]
+- **상품 등록** 📌 [코드 확인]
   - Controller에서는 요청을 화면단에서 넘어온 요청을 받고, Mapper 계층에 로직 처리를 위임합니다.
 
-- **욕설/비속어 필터링** :pushpin: [코드 확인]
+- **욕설/비속어 필터링** 📌 [코드 확인]
   - 상품 게시글에 욕설 포함 시 등록을 제한하고, 게시글을 다시 작성할 수 있게 합니다.
 
-- **등록 제한 팝업** :pushpin: [코드 확인]()
+- **등록 제한 팝업** 📌 [코드 확인]()
   - 상품 게시글의 제목 또는 상품 설명에 욕설/비속어가 포함되어있으면 재작성을 요청하는 팝업창을 전송합니다.
 
 ### 6.3. 댓글기능
 ![image](https://github.com/memorygreen/memorygreen/assets/108516942/0565b52b-3c65-4ab9-b881-66ccad1a90d1)
 
-- **작성자에 따른 상이한 디자인 및 정렬** :pushpin: [코드 확인](https://github.com/memorygreen/project/blob/main/Spring3new0326_1426_content/src/main/webapp/WEB-INF/views/ProductContent.jsp)
+- **작성자에 따른 상이한 디자인 및 정렬** 📌 [코드 확인](https://github.com/memorygreen/project/blob/main/Spring3new0326_1426_content/src/main/webapp/WEB-INF/views/ProductContent.jsp)
   - 댓글 작성자 화면에서는 자신의 댓글이 초록색 말풍선과 더불어 "나"라는 글자와 함께 표시됩니다.
   - 다른 사람이 쓴 댓글은 회색 말풍선으로 표시되며, 판매자가 작성한 댓글은 "판매자"라는 글자와 함께 표시됩니다.
 
@@ -193,11 +193,11 @@ BACK-END <br>
 ><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 >  
 >[프로젝트 상세 설명]([https://github.com/JungHyung2/gitio.io](https://github.com/2021-SMHRD-KDT-AI-18/jyTeamRepo)) 참고
-  >### :pushpin: MVC 패턴을 활용한 코인 노래 맞추기
+  >### 📌 MVC 패턴을 활용한 코인 노래 맞추기
 >
 </br>
 
-## :pushpin:자격증
+## 📌자격증
 ### ✔개발
 
 |    자격증 획득일    |       자격증명       |        발급기관         |
@@ -243,7 +243,7 @@ BACK-END <br>
 |      2022.07        |   JLPT(일본어능력시험)     |     일본국제교류기금     |
 
 ---
-## :pushpin:교육 및 경력사항/ 자격증
+## 📌교육 및 경력사항/ 자격증
 |     기간     |       기관명       |    내용      |
 |:----------------:|:------------------:|:------------------------------:|
 | 2023.12 – 2024.06 | 스마트인재개발원 | 인공지능 융합서비스 개발자 과정(928h) |
