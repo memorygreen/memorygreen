@@ -86,6 +86,7 @@ BACK-END <br>
 - 요양대상자 & 기관 매칭
 - 시설 찾기
 ```
+![니어케어 주요기능](https://github.com/user-attachments/assets/6807aa5c-dd03-4061-b8e4-9b5a074bbbdf)
 
 ### 3. 개발환경
 **✔Tool**
@@ -119,6 +120,7 @@ BACK-END <br>
 </br>
 
 ### 4. 시스템 아키텍처
+![니어케어 시스템아키텍처](https://github.com/user-attachments/assets/26a62e86-4f6e-4376-a478-aeee9ca6ebec)
 
 
 ### 5. ERD 설계
@@ -135,6 +137,7 @@ BACK-END <br>
 <div markdown="1">
 
 ### 6.1. 전체 흐름
+![니어케어 서비스 흐름도](https://github.com/user-attachments/assets/7babd1b9-4b4c-4949-bcc3-0c0cdde5f2df)
 
 
 ### 6.2. AI 정보제공 챗봇
