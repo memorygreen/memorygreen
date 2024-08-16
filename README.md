@@ -170,7 +170,92 @@ BACK-END <br>
 
 
 ### 2️⃣ 두 번째 프로젝트(https://github.com/memorygreen/project)
+>팀 프로젝트 
+>개발 기간: 2024.07.19 ~ 2024. 08. 02.
+>기술 스택:
+>[프로젝트 상세 설명](https://github.com/memorygreen/project) 참고
+>  >### 📌 니어케어(Near Care)
+> ""
 
+</br>
+
+
+<details> 
+  
+### 1. 제작 기간 & 참여 인원
+- 2024년 7월 19일 ~ 8월 2일
+- 팀 프로젝트 (김자영, 김진수, 천지원, 황아인)
+
+
+### 2. 개발내용 
+```
+- AI 정보제공 챗봇
+- 요양대상자 & 기관 매칭
+- 시설 찾기
+```
+![니어케어 주요기능](https://github.com/user-attachments/assets/6807aa5c-dd03-4061-b8e4-9b5a074bbbdf)
+
+### 3. 개발환경
+**✔Tool**
+<br>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
+**✔Back-End**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+
+**✔Front-End**
+<br>
+
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+
+
+**✔DB**
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**✔Collaboration**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+
+</br>
+
+### 4. 시스템 아키텍처
+
+
+### 5. ERD 설계
+
+
+### 6. 핵심 기능
+
+<details>
+<summary><b>핵심 기능 설명 펼치기</b></summary>
+<div markdown="1">
+
+### 6.1. 
+
+
+### 6.2.
+
+
+</br>
+
+### 7. 핵심 트러블 슈팅
+**7.1. 
+**7.2. 
+</br>
+
+
+</details>
+
+</details>
+</br>
 
 ### 3️⃣ 세 번째 프로젝트(https://github.com/memorygreen/project)
 >팀 프로젝트 
@@ -296,8 +381,8 @@ BACK-END <br>
 
 ---
 
-### 2️⃣ [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+### 2️⃣ [네 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+>네 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2023.1.29 ~ 2023.1.31
 >  
 >기술 스택:  
